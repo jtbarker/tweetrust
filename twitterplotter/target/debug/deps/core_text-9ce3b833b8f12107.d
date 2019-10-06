@@ -1,0 +1,11 @@
+/Users/jonb/Documents/GitHub/rustapps/twitterplotter/target/debug/deps/core_text-9ce3b833b8f12107.rmeta: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_collection.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_descriptor.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_manager.rs
+
+/Users/jonb/Documents/GitHub/rustapps/twitterplotter/target/debug/deps/libcore_text-9ce3b833b8f12107.rlib: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_collection.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_descriptor.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_manager.rs
+
+/Users/jonb/Documents/GitHub/rustapps/twitterplotter/target/debug/deps/core_text-9ce3b833b8f12107.d: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_collection.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_descriptor.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_manager.rs
+
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/lib.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_collection.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_descriptor.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/core-text-10.0.0/src/font_manager.rs:

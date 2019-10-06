@@ -1,0 +1,12 @@
+/Users/jonb/Documents/GitHub/rustapps/twitterplotter/target/debug/deps/arrayvec-031021b66da190f8.rmeta: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/maybe_uninit.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array_string.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/char.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/errors.rs
+
+/Users/jonb/Documents/GitHub/rustapps/twitterplotter/target/debug/deps/libarrayvec-031021b66da190f8.rlib: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/maybe_uninit.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array_string.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/char.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/errors.rs
+
+/Users/jonb/Documents/GitHub/rustapps/twitterplotter/target/debug/deps/arrayvec-031021b66da190f8.d: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/maybe_uninit.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array_string.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/char.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/errors.rs
+
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/lib.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/maybe_uninit.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/array_string.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/char.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.0/src/errors.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jonb/Documents/GitHub/rustapps/eggers/target/debug/build/typenum-091af920836ab258/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jonb/Documents/GitHub/rustapps/eggers/target/debug/build/typenum-091af920836ab258/out/op.rs

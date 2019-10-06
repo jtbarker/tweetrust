@@ -1,0 +1,22 @@
+[package]
+name = "egg-mode"
+version = "0.13.0"
+authors = ["Jon Barker <jonathan.t.barker@gmail.com>"]
+description = "twitter keyword to plot"
+repository = "https://github.com/QuietMisdreavus/twitter-rs"
+keywords = ["twitter"]
+categories = ["api-bindings"]
+license = "MPL-2.0"
+readme = "README.md"
+edition = "2018"
+
+
+
+[dependencies]
+plotters = "0.2.7"
+gnuplot = "0.0.32"
+
+[features]
+
+[dev-dependencies]
+
