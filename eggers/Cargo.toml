@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 egg-mode = "0.13.0"
 tokio-core = "0.1.17"
-tokio = "0.1.22"
+tokio = "1.18.5"
